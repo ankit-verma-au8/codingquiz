@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+   
+
+## About the Application:
+
+### A quiz application build with react and redux where you can organise a quiz with interactive features like a prompt with sound when you enter a wrong answer and same with when you enter correct answer.
+
+## Improvements
+
+### Can be connected with backend to make it flexible for more features
